@@ -1,0 +1,11 @@
+{
+  "_sobre": "Rotações comparadas pelo protótipo. Todas começam com soja no verão; muda o que entra depois da colheita.",
+  "rotacoes": [
+    {"id": "soja_milho", "nome": "Soja → milho safrinha", "verao": "soja", "segunda": "milho_safrinha", "atual_padrao": true},
+    {"id": "soja_sorgo", "nome": "Soja → sorgo", "verao": "soja", "segunda": "sorgo"},
+    {"id": "soja_milho_braquiaria", "nome": "Soja → milho + braquiária", "verao": "soja", "segunda": "milho_braquiaria"},
+    {"id": "soja_milheto", "nome": "Soja → milheto", "verao": "soja", "segunda": "milheto"},
+    {"id": "soja_crotalaria", "nome": "Soja → crotalária", "verao": "soja", "segunda": "crotalaria"},
+    {"id": "soja_braquiaria", "nome": "Soja → braquiária", "verao": "soja", "segunda": "braquiaria"}
+  ]
+}

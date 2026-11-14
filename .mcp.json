@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "spacedata": {
+      "type": "http",
+      "url": "https://spacedata.swapniltamse.com/mcp"
+    },
+    "earthdata": {
+      "type": "http",
+      "url": "https://cmr.earthdata.nasa.gov/mcp/v1"
+    }
+  }
+}
